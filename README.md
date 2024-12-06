@@ -1,4 +1,4 @@
-# TimeTraveler
+# Source codes of CATTer
 
 This is the data and coded for our ICAART 2025 paper **Improving Temporal Knowledge Graph Forecasting via Multi-rewards Mechanism and Confidence-Guided Tensor Decomposition Reinforcement Learning**
 
